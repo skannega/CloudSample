@@ -3,11 +3,69 @@ ProjectName
 # Table of contents
 
 - [Introduction](#Introduction)
+ - [Introduction](#introduction)
+ - [Dataset](#dataset)
+    - [Data Collection](#data-collection)
+    - [Data Processing](#data-processing)
+ - [Algorithms](#algorithms)
+    - [Naive Bayes](#naive-bayes)
+    - [K- Nearest Neighbours](#k-nearest-neighbours)
+	- [Logistic Regression](#logistic-regression)
+ - [Results and Analysis](#results-and-analysis)s
+    - [Naive Bayes Output](#naive-bayes-output)
+    - [K- Nearest Neighbours Output](#k-nearest-neighbours-output)
+	- [Logistic Regression Output](#logistic-regression-output)
+ -  - [Introduction](#introduction)
+ - [Dataset](#dataset)
+    - [Data Collection](#data-collection)
+    - [Data Processing](#data-processing)
+ - [Algorithms](#algorithms)
+    - [Naive Bayes](#naive-bayes)
+    - [K- Nearest Neighbours](#k-nearest-neighbours)
+	- [Logistic Regression](#logistic-regression)
+ - [Results and Analysis](#results-and-analysis)
+    - [Naive Bayes Output](#naive-bayes-output)
+    - [K- Nearest Neighbours Output](#k-nearest-neighbours-output)
+	- [Logistic Regression Output](#logistic-regression-output)
+ -  - [Introduction](#introduction)
+ - [Dataset](#dataset)
+    - [Data Collection](#data-collection)
+    - [Data Processing](#data-processing)
+ - [Algorithms](#algorithms)
+    - [Naive Bayes](#naive-bayes)
+    - [K- Nearest Neighbours](#k-nearest-neighbours)
+	- [Logistic Regression](#logistic-regression)
+ - [Results and Analysis](#results-and-analysis)
+    - [Naive Bayes Output](#naive-bayes-output)
+    - [K- Nearest Neighbours Output](#k-nearest-neighbours-output)
+	- [Logistic Regression Output](#logistic-regression-output)
+ - 
+
+
+
+
+
+
+
+
+
+
 
 
 
 ## Introduction
-I am Santosh.
+I am Santosh.dfdfdf
+
+
+
+
+
+
+
+
+
+
+
 
 # PREDICTING YELP FOOD REVIEWS’ RATINGS
 
